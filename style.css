@@ -18,6 +18,7 @@
 .navbar img{
     margin-left: 15px;
     margin-top: 15px;
+    width: 150px;
 }
 .nav_menu{
     display: inline-block;
@@ -70,21 +71,17 @@ vertical-align: top;
     font-size: 50px;
     font-weight: bolder;
     padding-top: 50px;
-    color: rgb(34, 37, 75);
+    color: #7BBED4;
 }
 
 .banner_left h4{
     margin: 0px;
-    font-size:20px ;
+    font-size:25px ;
     font-family: 'Open Sans', sans-serif;
     text-transform: capitalize;
     margin-left: 35px;
-  background: #D76991;
-    background: -webkit-linear-gradient(to right, #D76991 0%, #7BBED4 100%);
-    background: -moz-linear-gradient(to right, #D76991 0%, #7BBED4 100%);
-    background: linear-gradient(to right, #D76991 0%, #7BBED4 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color:rgb(97, 97, 105);
+
 
 }
 
@@ -118,7 +115,7 @@ margin: 0 auto;
    padding: 20px 50px;
 }
 .content h2{
-    color:rgb(34, 37, 75) ;
+    color:#7BBED4 ;
     font-family: 'Roboto', sans-serif; 
     font-size: 30px;
     text-transform: uppercase;
@@ -128,12 +125,8 @@ margin: 0 auto;
     font-family: 'Open Sans', sans-serif; 
     font-size: 20px;
     font-weight: bold;
-    background: #D76991;
-    background: -webkit-linear-gradient(to right, #D76991 0%, #7BBED4 100%);
-    background: -moz-linear-gradient(to right, #D76991 0%, #7BBED4 100%);
-    background: linear-gradient(to right, #D76991 0%, #7BBED4 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color:rgb(34, 37, 75) ;
+    
 
   
 }
